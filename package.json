@@ -1,0 +1,11 @@
+{
+  "name": "trial-assignment-frontend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "json-server": "0.14.2"
+  }
+}
